@@ -29,3 +29,12 @@ Run `ng github-pages:deploy` to deploy to GitHub Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+
+
+############STEPS TO SETUP THE PROJECT#############
+1) Clone the project <br>
+2) Run `npm install` as administrator
+3) Run `npm start`
+4) Open localhost:4200 in browser
