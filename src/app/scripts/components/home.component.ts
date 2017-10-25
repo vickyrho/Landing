@@ -14,7 +14,7 @@ export class HomeComponent implements AfterViewInit{
   ship: any;
 
   ngAfterViewInit() {
-    this.scene = document.getElementById('scene');
+    /*this.scene = document.getElementById('scene');
     this.parallaxInstance = new Parallax(this.scene);
 
     this.asteroid = document.getElementById('asteroid');
@@ -27,6 +27,6 @@ export class HomeComponent implements AfterViewInit{
     TweenLite.to(this.krk, 0.5, {top: '-100vh', delay: 0.7 });
 
     this.ship = document.getElementById('ship');
-    TweenLite.to(this.ship, 0.5, {top: '-100vh', delay: 0.7 });
+    TweenLite.to(this.ship, 0.5, {top: '-100vh', delay: 0.7 });*/
   };
 }
